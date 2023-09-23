@@ -29,8 +29,5 @@ I'm Quan Khuong, and I'm passionate about software development and technology. T
 
 I'd love to hear your thoughts on my portfolio website. If you have any feedback, suggestions, or inquiries, please feel free to [contact me](mailto:khuongquan38@gmail.com).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Thank you for visiting my portfolio!
